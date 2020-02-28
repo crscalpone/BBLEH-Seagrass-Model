@@ -1,6 +1,6 @@
 # Repository for *Simulated Estuary-Wide Response of Seagrass to Future Scenarios of Temperature and Sea Level*
 
-Here you will find the seagrass productivity model code, and the unmanipulated raw data that was used to create input files for the seagrass model, if the data is not cited in the manuscript.
+Here you will find the seagrass productivity model code, and the unmanipulated raw data used to create input files for the seagrass model that is not directly cited in the manuscript.
 
 ## Authors
 
