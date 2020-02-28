@@ -31,7 +31,7 @@ Report Access: https://www.barnegatbaypartnership.org/wp-content/uploads/wpallim
 
 File: *bbleh_frc_bulk_NARR_May2012_2013.nc*
 
-This file contains the raw atmospheric forcing functions used to create inputs to the seagrass model. The file was assembled on 18-Jul-2019 by Zafer Defne from the NOAA National Operational Model Archive and Distribution System.
+This file contains the raw atmospheric forcing functions used to create inputs to the seagrass model. The file was assembled on 18-Jul-2019 from the NOAA National Operational Model Archive and Distribution System by Zafer Defne.
 
 Latest access (02-18-2020) at: http://tds.marine.rutgers.edu/thredds/catalog/met/ncdc-nam-3hour/
 
