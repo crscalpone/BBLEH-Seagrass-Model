@@ -2,6 +2,8 @@
 
 Here you will find the seagrass productivity model code, and the unmanipulated raw data used to create input files for the seagrass model that is not directly cited in the manuscript.
 
+[![DOI](https://zenodo.org/badge/242200023.svg)](https://zenodo.org/badge/latestdoi/242200023)
+
 ## Authors
 
 Cara R. Scalpone, Jessie C. Jarvis, James Vasslides, Jeremy M. Testa, and Neil K. Ganju
