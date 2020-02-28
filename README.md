@@ -1,90 +1,40 @@
-# Data and Code for *Simulated Estuary-Wide Response of Seagrass to Future Scenarios of Temperature and Sea Level*
+# Repository for *Simulated Estuary-Wide Response of Seagrass to Future Scenarios of Temperature and Sea Level*
 
-Authors: Cara R. Scalpone, Jessie C. Jarvis, James Vasslides, Jeremy M. Testa, and Neil K. Ganju
-
-Corresponding Author:
-Cara Scalpone crscalpone@gmail.com
-
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
-### Prerequisites
-
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
-
-### Installing
-
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+Here you will find the seagrass productivity model code, and the unmanipulated raw data that was used to create input files for the seagrass model, if the data is not cited in the manuscript.
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+Cara R. Scalpone, Jessie C. Jarvis, James Vasslides, Jeremy M. Testa, and Neil K. Ganju
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+Corresponding Author:
+Cara R. Scalpone (crscalpone@gmail.com)
+
+## Included Files
+
+### Model Code
+
+File: *bio_veg_jcj_2019.m*
+
+Model file created in Matlab2018b.
+
+### Nitrogen Forcing Raw Data
+
+File: *BBLEH_Forching_Functions.xlsx*
+
+This file contains the the forcing functions used by Straub et al. (2015) in their seagrass model, which was used to create our nitrogen forcing functions.
+
+Citation: Straub, P., Jarvis, J.C., and Evert, S., (2015). Modelling Zostera marina restoration potential in Barnegat Bay New Jersey: Final Report for the Barnegat Bay Partnership. Technical Report prepared for the Barngegat Bay Partnership. 
+
+Report Access: https://www.barnegatbaypartnership.org/wp-content/uploads/wpallimport/files/Modeling%20Zostera%20marina%20restoration%20potential%20in%20Barnegat%20Bay%20New%20Jersey_final%20report.pdf
+
+## Atmospheric Forcing File
+
+File: *bbleh_frc_bulk_NARR_May2012_2013.nc*
+
+This file contains the raw atmospheric forcing functions used to create inputs to the seagrass model. The file was assembled on 18-Jul-2019 by Zafer Defne from the NOAA National Operational Model Archive and Distribution System.
+
+Latest access (02-18-2020) at: http://tds.marine.rutgers.edu/thredds/catalog/met/ncdc-nam-3hour/
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
