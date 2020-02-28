@@ -35,6 +35,4 @@ This file contains the raw atmospheric forcing functions used to create inputs t
 
 Latest access (02-18-2020) at: http://tds.marine.rutgers.edu/thredds/catalog/met/ncdc-nam-3hour/
 
-## License
-
 
