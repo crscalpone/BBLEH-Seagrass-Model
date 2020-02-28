@@ -23,7 +23,7 @@ File: *BBLEH_Forching_Functions.xlsx*
 
 This file contains the the forcing functions used by Straub et al. (2015) in their seagrass model, which was used to create our nitrogen forcing functions.
 
-Citation: Straub, P., Jarvis, J.C., and Evert, S., (2015). Modelling Zostera marina restoration potential in Barnegat Bay New Jersey: Final Report for the Barnegat Bay Partnership. Technical Report prepared for the Barngegat Bay Partnership. 
+Citation: Straub, P., Jarvis, J.C., and Evert, S., (2015). Modelling Zostera marina restoration potential in Barnegat Bay New Jersey: Final Report for the Barnegat Bay Partnership. Technical Report prepared for the Barnegat Bay Partnership. 
 
 Report Access: https://www.barnegatbaypartnership.org/wp-content/uploads/wpallimport/files/Modeling%20Zostera%20marina%20restoration%20potential%20in%20Barnegat%20Bay%20New%20Jersey_final%20report.pdf
 
