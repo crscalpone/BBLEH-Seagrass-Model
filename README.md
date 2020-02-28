@@ -11,11 +11,11 @@ Cara R. Scalpone (crscalpone@gmail.com)
 
 ## Included Files
 
-### Model Code
+### Seagrass Model Code
 
 File: *bio_veg_jcj_2019.m*
 
-Model file created in Matlab2018b.
+Model file created in Matlab version R2018b.
 
 ### Nitrogen Forcing Raw Data
 
